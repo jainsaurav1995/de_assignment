@@ -1,0 +1,3 @@
+SQLAlchemy
+Boto3
+pandas
